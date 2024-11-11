@@ -21,4 +21,4 @@ discount_percent = input("Enter the discount percentage: ")
 
 # Calculate and display the final price after discount
 final_price = calculate_discount(price, discount_percent)
-print(f"The final price after discount is: ${final_price:.2f}")
+print(f"The final price after discount is: ${final_price}")
